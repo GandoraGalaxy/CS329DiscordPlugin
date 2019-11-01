@@ -1,1 +1,1 @@
-# CS329DiscordPlugin
+# Discord Plugin Application for CS329
